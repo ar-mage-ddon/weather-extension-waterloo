@@ -1,0 +1,11 @@
+{
+    "name": "Current Weather in Waterloo",
+    "version": "1.0.0",
+    "description": "current weather in Waterloo, including feels like, humidity, and a description",
+    "manifest_version": 3,
+    "author": "Cindy Li",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Current Weather"
+    }
+}
